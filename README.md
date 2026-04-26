@@ -2,11 +2,11 @@
 
 This repository provides a **minimal demo** of our method for medical image segmentation using **Graph Neural Networks (GNNs)**.
 
-⚠️ The full implementation (models, training, weights) will be released after paper acceptance.
+The full implementation (models, training, weights) will be released after paper acceptance.
 
 ---
 
-## 📌 Content
+## Content
 
 - `example.ipynb` → complete demo:
   - graph loading
